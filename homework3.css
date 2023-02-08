@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+.background {
+    background-color: black;
+    height: 100%;
+}
+
+.form {
+    height: 25px;
+    width: 35%;
+    background-color: gray;
+    padding: 10px 10px;
+    color: white;
+}
+
+.submit1 {
+    background-color: green;
+    border: none;
+}
+
+.form2 {
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    padding: 10px 10px;
+    color: white;
+}
+
+.submit2 {
+    background-color: green;
+    border: none;
+}
+
+.form3 {
+    height: 15px;
+    width: 22%;
+    background-color: gray;
+    padding: 10px 10px;
+    color: white;
+}
+
+.form4 {
+    height: 20px;
+    width: 20%;
+    background-color: gray;
+    padding: 10px 10px;
+}
+
+.submit3 {
+    background-color: green;
+    border: none;
+}
+
+.submit4 {
+    background-color: green;
+    border: none;
+}
+
+.color {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to right, red, blue);
+}
+
+.color2 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to left, red, blue);
+}
+
+.color3 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to top, red, blue);
+
+}
+
+.color4 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to bottom, red, blue);
+
+}
+
+.color5 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to right, red, blue);
+
+}
+
+.color6 {}
+
+.color7 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to top right, red, blue);
+
+}
+
+.color8 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to top left, red, blue);
+
+}
+
+.color9 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to right, red, blue, green);
+
+
+}
+
+.color10 {
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(to right, red, blue, green, red);
+
+
+}
+
+.color11 {
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(red 10%, blue 45%, green 75%, red 5%);
+
+}
+
+.color12 {
+    height: 100px;
+    width: 100px;
+    background: repeating-linear-gradient(-180deg, red, red 5px, blue 5px, blue 10px);
+
+
+}
+
+.color13 {
+    height: 100px;
+    width: 100px;
+    background: repeating-radial-gradient(red, red 5px, blue 5px, blue 10px);
+
+}
+
+.photo img {
+    height: 100px;
+    width: 100px;
+    background-blend-mode: darken 20%;
+    opacity: 0.6;
+
+}
+label, legend{
+    color: white;
+}
+input{
+    background-color: black;
+}
